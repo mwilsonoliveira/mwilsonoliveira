@@ -2,12 +2,11 @@
 
 ---
 
-🔭 Trabalho com desenvolvimento web
+- 🔭 Trabalho com desenvolvimento web
+- 🌱 Atualmente estudando React Native
 
-🌱 Atualmente estudando React Native
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilsonoliveira&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilsonoliveira&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwilsonoliveira&theme=dark)
 
 <!--
 **mwilsonoliveira/mwilsonoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
