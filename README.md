@@ -6,7 +6,7 @@
 - 🌱 Atualmente estudando React Native
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilsonoliveira&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwilsonoliveira&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwilsonoliveira&layout=compact&langs_count=7&theme=dark)
 
 <!--
 **mwilsonoliveira/mwilsonoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
