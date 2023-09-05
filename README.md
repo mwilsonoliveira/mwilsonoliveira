@@ -1,4 +1,4 @@
-## Olá, me chamo Marcos! 👋
+## Olá, me chamo Marcos! 👋😊
 
 ---
 
@@ -32,7 +32,7 @@
 
 - 📧 E-mail: mwiloson.oliveira@gmail.com
 - 💼 LinkedIn: [Marcos Wilson de oliveira](https://www.linkedin.com/in/mwilson-oliveira/)
-- 
-### 🎉 Obrigado(a) por Visitar!
 
-Agradeço por dar uma olhada no meu perfil do GitHub. Fique à vontade para explorar meus repositórios e sinta-se encorajado(a) a me seguir para acompanhar meus projetos e atualizações. 👋😊
+### 🎉 Obrigado por Visitar!
+
+Fique à vontade para explorar meus repositórios e me siga para acompanhar meus projetos e atualizações.
