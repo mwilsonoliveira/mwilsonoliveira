@@ -1,7 +1,5 @@
 ## Olá, me chamo Marcos! 👋😊
 
----
-
 ### 🔧 Tecnologias e Habilidades
 
 - 💻 Linguagens de Programação: TypeScript, JavaScript.
