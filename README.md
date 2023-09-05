@@ -13,7 +13,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilsonoliveira&&hide=stars&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwilsonoliveira&layout=compact&langs_count=7&theme=dark)
 
-###Linguagens e tecnologias:
+### Linguagens e tecnologias:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
