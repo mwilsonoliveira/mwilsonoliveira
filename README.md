@@ -3,10 +3,10 @@
 ### 🔧 Tecnologias e Habilidades
 
 - 💻 Linguagens de Programação: TypeScript, JavaScript.
-- 🌐 Desenvolvimento Web: HTML, CSS, React.js, Node.js.
+- 🌐 Desenvolvimento Web: HTML, CSS, ReactJS, NodeJS.
 - 📦 Frameworks: ReactJS.
-- 🗄️ Bancos de Dados: PostgreSQL.
-- 🛠️ Ferramentas e Outras Habilidades: Git, GitHub, Visual Studio Code, Postman, Docker.
+- 🗄️ Bancos de Dados: PostgreSQL, Oracle, MySQL.
+- 🛠️ Ferramentas e Outras Habilidades: GitLab, GitHub, Visual Studio Code, Postman, Docker.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilsonoliveira&&hide=stars&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwilsonoliveira&layout=compact&langs_count=7&theme=dark)
