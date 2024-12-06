@@ -8,7 +8,7 @@
 - 🗄️ Bancos de Dados: Prisma, PostgreSQL, Oracle, MySQL.
 - 🛠️ Ferramentas e Outras Habilidades: GitLab, GitHub, Visual Studio Code, Postman, Docker.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilsonoliveira&&hide=stars&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwilsonoliveira)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwilsonoliveira&layout=compact&langs_count=7&theme=dark)
 
 ### Linguagens e tecnologias:
