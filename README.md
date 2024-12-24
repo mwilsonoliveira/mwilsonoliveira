@@ -30,7 +30,7 @@
 
 ### 📫 Como me Encontrar
 
-- 📧 E-mail: mwiloson.oliveira@gmail.com
+- 📧 E-mail: mwilson.oliveira@gmail.com
 - 💼 LinkedIn: [Marcos Wilson de oliveira](https://www.linkedin.com/in/mwilson-oliveira/)
 
 ### 🎉 Obrigado por Visitar!
