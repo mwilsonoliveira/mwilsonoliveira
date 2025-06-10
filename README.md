@@ -14,7 +14,6 @@
 ### Linguagens e tecnologias:
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)(https://nextjs.org/)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-%2320232a?style=for-the-badge&logo=next.js)](https://nextjs.org/)
@@ -25,6 +24,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 [![Prisma Badge](https://img.shields.io/badge/Prisma-%2320232a?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ---
 
