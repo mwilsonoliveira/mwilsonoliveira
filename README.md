@@ -4,7 +4,7 @@
 
 - 💻 Linguagens de Programação: TypeScript, JavaScript.
 - 🌐 Desenvolvimento Frontend: ReactJS, NextJS, HTML, CSS.
-- 📦 Frameworks: ReactJS.
+- 📦 Desenvolvimento Backend: NestJS.
 - 🗄️ Bancos de Dados: Prisma, PostgreSQL, Oracle, MySQL.
 - 🛠️ Ferramentas e Outras Habilidades: GitLab, GitHub, Visual Studio Code, Postman, Docker.
 
@@ -23,6 +23,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 [![Prisma Badge](https://img.shields.io/badge/Prisma-%2320232a?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
+[![NestJS Badge](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
+
 
 ---
 
