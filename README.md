@@ -13,7 +13,7 @@
 
 ### Linguagens e tecnologias:
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)(https://nextjs.org/)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-%2320232a?style=for-the-badge&logo=next.js)](https://nextjs.org/)
